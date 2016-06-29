@@ -2,10 +2,7 @@
  * Created by dmartin on 6/29/2016.
  */
 var util = require('util');
-var roleUpgrader = require('role.upgrader');
-var roleBuilder = require('role.builder');
 var roleMiner = require('role.miner');
-var roleBasic = require('role.basic');
 var roleCourier = require('role.courier');
 
 /* Courier Controller Script*/
